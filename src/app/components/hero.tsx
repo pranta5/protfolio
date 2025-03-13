@@ -58,7 +58,7 @@ const Hero = () => {
 
       <div className="relative z-10 flex flex-col items-center md:items-start">
         <p className="text-lg leading-relaxed mb-4">
-          Hi, I'm Pranta, a passionate JavaScript Developer dedicated to
+          Hi, Im Pranta, a passionate JavaScript Developer dedicated to
           crafting seamless digital experiences.
         </p>
         <button className="px-6 py-2 bg-black text-white rounded-lg hover:bg-gray-800 transition">
